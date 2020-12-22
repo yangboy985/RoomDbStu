@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_exclude_db"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="exclude db"
+        android:textColor="#333333"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/bt_delete_db"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="delete db"
+        android:textColor="#333333"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/bt_query"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="query device"
+        android:textColor="#333333"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/bt_add"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="add relation"
+        android:textColor="#333333"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/bt_delete_relation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="delete relation"
+        android:textColor="#333333"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/bt_delete_5"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="delete device5"
+        android:textColor="#333333"
+        android:textSize="25sp" />
+
+</LinearLayout>
